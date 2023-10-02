@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\bin\Debug\net6.0-windows\3 yazılıyı toplama.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\bin\Debug\net6.0-windows\3 yazılıyı toplama.deps.json
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\bin\Debug\net6.0-windows\3 yazılıyı toplama.runtimeconfig.json
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\bin\Debug\net6.0-windows\3 yazılıyı toplama.dll
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\bin\Debug\net6.0-windows\3 yazılıyı toplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\3 yazılıyı toplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\_3_yazılıyı_toplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\3 yazılıyı toplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\3 yazılıyı toplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\3 yazılıyı toplama.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\3 yazılıyı toplama.AssemblyInfo.cs
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\3 yazılıyı toplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\3 yazılıyı toplama.dll
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\refint\3 yazılıyı toplama.dll
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\3 yazılıyı toplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\3 yazılıyı toplama.genruntimeconfig.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\3 yazılıyı toplama\3 yazılıyı toplama\obj\Debug\net6.0-windows\ref\3 yazılıyı toplama.dll

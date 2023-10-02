@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\bin\Debug\net6.0-windows\2 sayının toplamı.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\bin\Debug\net6.0-windows\2 sayının toplamı.deps.json
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\bin\Debug\net6.0-windows\2 sayının toplamı.runtimeconfig.json
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\bin\Debug\net6.0-windows\2 sayının toplamı.dll
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\bin\Debug\net6.0-windows\2 sayının toplamı.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\2 sayının toplamı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\_2_sayının_toplamı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\2 sayının toplamı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\2 sayının toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\2 sayının toplamı.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\2 sayının toplamı.AssemblyInfo.cs
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\2 sayının toplamı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\2 sayının toplamı.dll
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\refint\2 sayının toplamı.dll
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\2 sayının toplamı.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\2 sayının toplamı.genruntimeconfig.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\2 sayının toplamı\2 sayının toplamı\obj\Debug\net6.0-windows\ref\2 sayının toplamı.dll
